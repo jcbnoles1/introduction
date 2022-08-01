@@ -4,3 +4,12 @@ I like when things work out
 another change for today
 extra change
 another change extra
+Sunday change
+<<<<<<< HEAD
+upload message to Github
+
+
+
+=======
+github to local machine
+>>>>>>> 7794ad2c371097e92660b2ab5dca7ad2f616a3ea
